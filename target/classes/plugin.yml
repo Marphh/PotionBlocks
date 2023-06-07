@@ -1,7 +1,0 @@
-name: PotionBlocks
-version: '1.0'
-main: me.marphh.potionblocks.PotionBlocks
-api-version: 1.19
-load: STARTUP
-authors: [Marphh]
-description: Every time you break a block it gives you a random potion effect
